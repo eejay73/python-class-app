@@ -1,4 +1,4 @@
-#!/bin/bash python3
+#!/bin/bash/env python3
 """
 Program will block access to listed websites within
 a scheduled window of time.  Program will run as a

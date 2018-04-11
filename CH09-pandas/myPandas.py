@@ -1,4 +1,4 @@
-#!/usr/bin/env/ python3
+#!/usr/bin/env python3
 """
 Ch09 - numpy and pandas exploration
 @author Ellery Penas

@@ -1,4 +1,4 @@
-#!/bin/bash python3
+#!/bin/bash/env python3
 """
 CH10 code associated with exploring the folium lib
 @author Ellery Penas

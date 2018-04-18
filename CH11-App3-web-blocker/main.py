@@ -13,7 +13,7 @@ from datetime import datetime as dt
 
 def main():
     # using a dummy host file to test script
-    hosts_path = "/projects/python-class-app/hosts"
+    hosts_path = "/projects/eejay73-python-class-app/hosts"
     redirect_ip = "127.0.0.1"
     website_list = ["facebook.com", "www.facebook.com", "www.youtube.com"]
 
@@ -22,7 +22,7 @@ def main():
                 dt.now().year,
                 dt.now().month,
                 dt.now().day,
-                20) < dt.now() < dt(
+                1) < dt.now() < dt(
                 dt.now().year,
                 dt.now().month,
                 dt.now().day,
